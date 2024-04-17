@@ -1886,3 +1886,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 .testimonials-avatar-box img {
   border-radius: 14px;
 }
+.timeline-list li {
+  margin-bottom: 10px; /* Adjust the margin between list items */
+}
