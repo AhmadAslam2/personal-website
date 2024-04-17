@@ -1880,3 +1880,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+.testimonials-item time {
+  display: none;
+}
+.testimonials-avatar-box img {
+  border-radius: 14px;
+}
